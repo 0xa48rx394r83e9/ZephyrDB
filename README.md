@@ -23,6 +23,7 @@ ZephyrDB is a high-performance, in-memory database library implemented in Rust. 
 - [Performance](#-performance)
 - [Roadmap](#-roadmap)
 - [License](#-license)
+- [Resources](#-resources)
 
 ## ✦༺ Installation ༻✦
 
@@ -143,3 +144,10 @@ If you have any suggestions or feature requests, please open an issue on the [Gi
 
 ZephyrDB is released under the [MIT License](https://github.com/0xa48rx394r83e9/ZephyrDB/blob/main/LICENSE).
 
+## ✦༺ Resources ༻✦
+
+- [Rust Programming Language](https://www.rust-lang.org/)
+- [B-tree Data Structure](https://en.wikipedia.org/wiki/B-tree)
+- [HashMap Data Structure](https://en.wikipedia.org/wiki/Hash_table)
+- [Key-Value Database](https://en.wikipedia.org/wiki/Key-value_database)
+- [In-Memory Database](https://en.wikipedia.org/wiki/In-memory_database)
